@@ -1,0 +1,1 @@
+OfferPhotos = new Mongo.Collection('offerphotos');
